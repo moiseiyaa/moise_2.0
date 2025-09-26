@@ -17,7 +17,7 @@ server/
 The database scripts should be run in order to set up your Supabase database:
 
 1. `001_create_database_schema.sql` - Creates the main database schema
-2. `002_create_profile_trigger.sql` - Creates user profile triggers
+2. `002_create_profile_trigger.sql`r - Creates user profile triggers
 
 ## Usage
 
